@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/ScreenScene.unity
     guid: b3e338fa7490f1b49afe0025d80b3853
   - enabled: 1
-    path: Assets/Scenes/Mobile RPG.unity
+    path: Assets/Scenes/Mobile RPG/MobileRPGMainScene.unity
     guid: abbc1251cb87a084488595735a8ade62
+  - enabled: 1
+    path: Assets/Scenes/Mobile RPG/MobileRPGStartScene.unity
+    guid: 5b280329688fa8c4f9cb24b8edbd23bd
   m_configObjects: {}

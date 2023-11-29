@@ -20,16 +20,13 @@ public class onoffbtn : MonoBehaviour
     }
     public void Onoffscreen()
     {
-        Debug.Log("nananana");
         if (!onscreen.activeSelf)
         {
-            Debug.Log("sasasasa");
             offscreen.SetActive(false);
             onscreen.SetActive(true);
         }
         else if (!offscreen.activeSelf)
         {
-            Debug.Log("dadadada");
             offscreen.SetActive(true);
             onscreen.SetActive(false);
         }
